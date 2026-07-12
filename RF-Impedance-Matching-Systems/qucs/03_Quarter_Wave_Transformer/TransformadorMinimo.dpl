@@ -1,0 +1,33 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,800,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=TransformadorMinimo.dat>
+  <DataDisplay=TransformadorMinimo.sch>
+  <OpenDisplay=1>
+  <Script=TransformadorMinimo.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Autor:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 420 320 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"dBS11" #0000ff 0 3 0 0 0>
+	  <Mkr 9.60081e+08 175 -88 3 0 0>
+  </Rect>
+  <ySmith 110 600 200 200 3 #c0c0c0 1 00 1 0 1 1 1 0 4 1 1 0 1 1 315 0 225 "" "" "">
+	<"S[1,1]" #0000ff 0 3 0 0 0>
+	  <Mkr 9.58728e+08 160 -160 3 0 0>
+  </ySmith>
+</Diagrams>
+<Paintings>
+</Paintings>

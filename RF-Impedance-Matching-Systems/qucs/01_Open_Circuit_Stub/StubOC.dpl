@@ -1,0 +1,34 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-38,1046,937,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=StubOC.dat>
+  <DataDisplay=StubOC.sch>
+  <OpenDisplay=1>
+  <Script=StubOC.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Autor:>
+  <FrameText2=Data:>
+  <FrameText3=Revisão:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <ySmith 150 350 200 200 3 #c0c0c0 1 00 1 0 1 1 1 0 4 1 1 0 1 1 315 0 225 "" "" "">
+	<"S[1,1]" #0000ff 0 3 0 0 0>
+	  <Mkr 9.58051e+08 157 -160 3 0 0>
+  </ySmith>
+  <Rect 400 734 599 344 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"dBS11" #ff0000 0 3 0 0 0>
+	  <Mkr 1.35318e+06 -310 -257 3 0 0>
+	  <Mkr 9.62788e+08 204 -121 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
