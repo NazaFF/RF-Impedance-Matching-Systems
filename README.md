@@ -177,8 +177,8 @@ RF-Impedance-Matching-Systems/
 
 Project developed by: 
 
-- Tomás Ferreira (Eletrical Engeneer)
-- Adriana Pires  (Eletrical Engeneer)
+- Tomás Ferreira (Eletrical Engineer)
+- Adriana Pires  (Eletrical Engineer)
 
 ---
 
