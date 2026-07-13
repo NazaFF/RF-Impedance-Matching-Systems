@@ -175,13 +175,19 @@ RF-Impedance-Matching-Systems/
 
 ## Authors
 
-Project developed in collaboration for the course *Propagação e Radiação de Ondas Eletromagnéticas*, University of Aveiro (2025/2026).
+Project developed by: 
 
-- Tomás Ferreira
-- Adriana Pires
+- Tomás Ferreira (Eletrical Engeneer)
+- Adriana Pires  (Eletrical Engeneer)
 
 ---
 
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
+## Contact
+- Email: ferreiratomas994@gmail.com
+- Outlkook tomasff52@ua.pt
+- LinkedIn: (https://www.linkedin.com/in/tomas-ferreira-52635a2b8/?isSelfProfile=true)
+
