@@ -109,23 +109,6 @@ The quarter-wave transformer achieved the strongest match at the exact design fr
 
 ---
 
-## Repository Structure
-
-```
-RF-Impedance-Matching-Systems/
-├── matlab/                  MATLAB scripts: load characterization and full frequency-sweep analysis
-├── qucs/                    Qucs schematics and simulation datasets, one folder per matching system
-│   ├── 01_Open_Circuit_Stub/
-│   ├── 02_Series_Inductor/
-│   └── 03_Quarter_Wave_Transformer/
-├── smith-charts/            Hand-derived Smith Chart design sheets (PDF) for each system
-├── results/                 Result plots (S11, VSWR, Smith Chart) and the scripts used to generate them
-├── presentation/            Project presentation (PowerPoint)
-└── documentation/           Assignment brief, system/substrate code reference, and full technical report (PDF)
-```
-
----
-
 ## Installation & Usage
 
 **MATLAB:**
